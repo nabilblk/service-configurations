@@ -14,8 +14,8 @@ spring:
 eureka:
   instance:
     prefer-ip-address: true
+    leaseRenewalIntervalInSeconds: 10
   client:
     registerWithEureka: true
-    fetchRegistry: true
     serviceUrl:
-      defaultZone: http://discovery1.local:8761/,http://discovery2.local:8762/
+      defaultZone: http://discovery1.local:8761/eureka,http://discovery2.local:8762/eureka
