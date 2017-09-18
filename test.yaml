@@ -2,4 +2,5 @@ ma:
   spring:
     database:
       password: safsafDDD
-      tafta: safsaf
+      tafta: '{"timestamp":1505773309840,"status":400,"error":"Bad Request","exception":"org.springframework.web.bind.ServletRequestBindingException","message":"Missing
+        request header ''Content-Type'' for method parameter of type MediaType","path":"/encrypt"}'

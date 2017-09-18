@@ -1,4 +1,5 @@
 ma:
   spring:
-    database: 
+    database:
       password: safsafDDD
+      tafta: safsaf
