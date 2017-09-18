@@ -2,4 +2,4 @@ ma:
   spring:
     database:
       password: safsafDDD
-      tafta: 4aa982e2fdcc4661be372220541c21f6b3bc686a2f956095008f5996b578f38a
+      tafta: '''{cipher}606d1c389db655fb51bdc9c8ddd9be628199abab4ba18ed9de25d9dbd855a421'''
