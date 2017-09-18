@@ -1,4 +1,3 @@
 ma:
   spring:
-    database:
-      password: Jmix2017
+    database: safsaf
