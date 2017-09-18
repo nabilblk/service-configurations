@@ -1,4 +1,4 @@
 ma:
   spring:
     database:
-      tafta: '{cipher}2cbdfb9bed3a5b378f865df85c0a1dd17637d413a65d9daef239c5518e3449bf'
+      tafta: '{cipher}281436ed679a3e6d9626bb83b9209b02c92ef9a2720a4204cdc3fed41aa6d10b'
