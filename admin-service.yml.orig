@@ -1,8 +1,0 @@
-eureka:
-  client:
-    fetchRegistry: true
-    registerWithEureka: true
-    serviceUrl:
-      defaultZone: '{cipher}f1c1a4fe36ffd29b3779795bcb294d98a3f4eac8e4b5d06bfefbeb8056b3e34f5efd8b5a27cebff9861bc0539f8d0bef'
-  instance:
-    prefer-ip-address: true
