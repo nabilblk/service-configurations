@@ -3,6 +3,6 @@ eureka:
     fetchRegistry: true
     registerWithEureka: true
     serviceUrl:
-      defaultZone: '{cipher}f1c1a4fe36ffd29b3779795bcb294d98a3f4eac8e4b5d06bfefbeb8056b3e34f5efd8b5a27cebff9861bc0539f8d0bef'
+      defaultZone: '{cipher}0654a3de974b73c0971baf379e2b8ca08c02213e77cc35b77ac96b13ccef483ffde2f1c3e04bf91d64b78aeba00d98c5'
   instance:
     prefer-ip-address: true
