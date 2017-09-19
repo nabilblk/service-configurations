@@ -9,7 +9,7 @@ eureka:
 spring:
   datasource:
     initialize: false
-    password: '{cipher}d56b6dd8e0e07b456d9e614ad62dbadbd1243ae5b58fdb41da03df7e933900b8'
+    password: '{cipher}15305f3a64f6ba6e443728eed55b39c335ef9cf4563b07423b5cce5bc880df11'
     url: jdbc:mysql://localhost:3306/pocArchi?useSSL=false
     username: root
   jpa:
