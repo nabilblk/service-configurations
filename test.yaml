@@ -1,5 +1,5 @@
 ma:
   spring:
     database:
-      password: '{cipher}016544f02ef41ec069c3081ccd02a2a50dec5ff8a5908839e1a98c4e7dcc9630'
+      password: '{cipher}f240785bbeb2f1953519189a4826ba2aa7acd49cd0c896cd2476d332533033fb'
       tafta: '{cipher}281436ed679a3e6d9626bb83b9209b02c92ef9a2720a4204cdc3fed41aa6d10b'
